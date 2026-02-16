@@ -10,11 +10,11 @@ Aqui você encontrará nossos repositórios, evoluções do projeto e contribui�
 ## 👩‍💻 Nossa Equipe
 
  - Brayan Barros Teixeira Cordeiro Silva
- - Diego Matheus de Carvalho Goncalves
+ - Diego Matheus de Carvalho Gonçalves
  - Eduardo Augusto Dias Marionucci
  - Luan Gabriel da Silva Freitas
  - Mauro Libanore
- - Tayna Vicente Silva
+ - Tayná Vicente Silva
 
 ## 📌 Objetivo
 Desenvolver soluções aplicando boas práticas de engenharia de software, metodologias ágeis e trabalho colaborativo.
